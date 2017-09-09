@@ -21,3 +21,12 @@ data-change-state="element-to-show"
 
 <button type="button" name="button" data-change-state="element-to-show">Change state</button>
 ```
+
+
+### Result
+
+```html
+
+<div class="element-to-show active">
+
+```
